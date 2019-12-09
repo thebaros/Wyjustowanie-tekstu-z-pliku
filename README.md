@@ -1,2 +1,2 @@
 # Wyjustowanie-tekstu-z-pliku
-Projekt na zaliczenie laboratorió
+Projekt na zaliczenie laboratoriów
